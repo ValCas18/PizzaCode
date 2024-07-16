@@ -42,7 +42,7 @@
 }
 
 .black {
-	color: #2c121b;
+	color: #272932;
 }
 
 .orange {
@@ -51,4 +51,8 @@
 
 .white {
 	columns: #eee7df;
+}
+
+.grey {
+	color: #beb7a4;
 }
